@@ -34,6 +34,15 @@ Ubooquity 2.1.2 all.spk Ubooquity漫画图书管理器汉化版
 
 Kavita 0.6.0_X86_64_dezhao.spk
 
+
+20230402 更新书签管理器Shiori到1.5.4
+
+Shiori_Synology_DSM7_armada38x_1.5.4 .spk
+Shiori_Synology_DSM7_arm64_1.5.4.spk
+Shiori_Synology_DSM7_X86_64_1.5.4.spk
+
+
+
 ![01](https://user-images.githubusercontent.com/38988286/198556795-2338d182-6f45-42a2-a794-6320c3ab49f1.jpg)
 
 ![02](https://user-images.githubusercontent.com/38988286/198556830-9305c867-9191-4d5b-abee-72c8e113bf86.jpg)
