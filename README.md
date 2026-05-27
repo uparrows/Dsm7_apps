@@ -80,7 +80,9 @@ LiteReader-1.1.8_noarch-dsm7.spk  轻阅读 nas上的阅读器
 
 LiteNoise-1.0.5_noarch-dsm7.spk  轻噪音  白噪音工具
 
-前往博客https://yuanfangblog.xyz/下载最新版本，或前往夸克网盘下载：https://pan.quark.cn/s/c5d95225c197
+前往博客：https://yuanfangblog.xyz/
+下载最新版本，或前往夸克网盘下载：https://pan.quark.cn/s/c5d95225c197
+
 提取码：fMkV
 
 ![01](https://user-images.githubusercontent.com/38988286/198556795-2338d182-6f45-42a2-a794-6320c3ab49f1.jpg)
