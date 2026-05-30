@@ -117,7 +117,7 @@ LiteNoise-1.0.5_noarch-dsm7.spk  轻噪音  白噪音工具
 <img width="1493" height="947" alt="1157652547" src="https://github.com/user-attachments/assets/89f6b861-1e06-4186-a030-3b04849e537c" />
 <img width="1496" height="967" alt="777479631" src="https://github.com/user-attachments/assets/e08d4729-ffe0-4b5f-a16b-901e3c654806" />
 <img width="1574" height="743" alt="2510463614" src="https://github.com/user-attachments/assets/7c0c1e78-5f9b-49c8-96bc-3ae6532c51c1" />
-
+<img width="1593" height="877" alt="2839190201" src="https://github.com/user-attachments/assets/959c2d26-bc37-4b1e-9779-8a798f5ffd16" />
 
 
 访问博客查看更多有趣内容和app下载：https://yuanfangblog.xyz/
